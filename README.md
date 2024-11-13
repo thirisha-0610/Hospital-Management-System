@@ -25,7 +25,7 @@
 
 ![379628892-e3c8769e-dc45-432d-96ae-f72d7dd1cd55](https://github.com/user-attachments/assets/d15a03d5-8842-4f79-acaf-d9d0ef42f7b5)
 
-### COMMUNICATION DIAGRAM:
+### COLLOBORATION DIAGRAM:
 
 ![379629410-d3d659d0-f929-4a4a-8bcd-a38e119f1102](https://github.com/user-attachments/assets/cc5fbf5a-a08b-4019-aefd-dcaddf39f034)
 
